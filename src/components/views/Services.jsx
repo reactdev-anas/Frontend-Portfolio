@@ -11,12 +11,12 @@ const services = [
     icon: <FaReact size={40} />
   },
   {
-    name: "Node.js Backend Development",
+    name: "Node.js ",
     description: "Building robust server-side applications and RESTful APIs using Node.js and Express.",
     icon: <FaNodeJs size={40} />
   },
   {
-    name: "Express.js Backend Development",
+    name: "Express.js Backend",
     description: "Creating RESTful APIs and server-side logic using Express.js, a lightweight Node.js framework.",
     icon: <SiExpress size={40} />
   },
