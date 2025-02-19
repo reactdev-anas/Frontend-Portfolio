@@ -9,7 +9,7 @@ const ProjectCard = () => {
   return (
     <>
     <section id='ourwork'>
-  <div className="text-center pt-1">
+  <div className="text-center pt-1 mt-5 sm:mt-6 md:mt-8 lg:mt-8">
     <span className=' px-5 py-3 border-2  text-cyan-700 border-cyan-700 rounded font-semibold text-2xl sm:text-3xl md:text-4xl lg:text-4xl'>Our Work</span>
   </div>
    <div className="border-0 mt-16 sm:mt-8 md:mt-10 lg:mt-10 overflow-hidden p-4 flex flex-col sm:flex-col md:flex-row lg:flex-row items-center gap-4">
