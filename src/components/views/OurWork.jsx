@@ -12,7 +12,7 @@ const ProjectCard = () => {
   <div className="text-center pt-1">
     <span className=' px-5 py-3 border-2  text-cyan-700 border-cyan-700 rounded font-semibold text-2xl sm:text-3xl md:text-4xl lg:text-4xl'>Our Work</span>
   </div>
-   <div className="border-0 mt-16 sm:mt-1 md:t-0 lg:mt-0 overflow-hidden p-4 flex flex-col sm:flex-col md:flex-row lg:flex-row items-center gap-4">
+   <div className="border-0 mt-16 sm:mt-8 md:mt-10 lg:mt-10 overflow-hidden p-4 flex flex-col sm:flex-col md:flex-row lg:flex-row items-center gap-4">
       {/* Left Side: Project Image */}
       <div className="w-full sm:w-full  md:w-1/2 lg:w-1/2">
         <img
@@ -69,7 +69,7 @@ const ProjectCard = () => {
 
     {/* // { Project section-2} */}
 
-    <div className="border-0 overflow-hidden p-4 flex flex-col-reverse sm:flex-col-reverse md:flex-row lg:flex-row items-center gap-4">
+    <div className="border-0 mt-12 sm:mt-4 md:mt-0 lg:mt-0 overflow-hidden p-4 flex flex-col-reverse sm:flex-col-reverse md:flex-row lg:flex-row items-center gap-4">
   {/* Left Side: Project Details (Content) */}
   <div className="w-full sm:w-full md:w-45% lg:w-40%  flex flex-col justify-center pl-0 sm:pl-0 md:pl-6 lg:pl-7">
     {/* Live Project Link */}
@@ -130,7 +130,7 @@ const ProjectCard = () => {
 
 {/* Project Section-3 */}
 
-<div className="border-0  overflow-hidden p-4 flex flex-col sm:flex-col md:flex-row lg:flex-row items-center gap-4">
+<div className="border-0 mt-12 sm:mt-4 md:mt-0 lg:mt-0  overflow-hidden p-4 flex flex-col sm:flex-col md:flex-row lg:flex-row items-center gap-4">
       {/* Left Side: Project Image */}
       <div className="w-full sm:w-full  md:w-1/2 lg:w-1/2">
         <img
@@ -191,7 +191,7 @@ const ProjectCard = () => {
 
 {/* Project Section-4 */}
 
-    <div className="border-0 overflow-hidden p-4 flex flex-col-reverse sm:flex-col-reverse md:flex-row lg:flex-row items-center gap-4">
+    <div className="border-0 mt-12 sm:mt-4 md:mt-0 lg:mt-0 overflow-hidden p-4 flex flex-col-reverse sm:flex-col-reverse md:flex-row lg:flex-row items-center gap-4">
   {/* Left Side: Project Details (Content) */}
   <div className="w-full sm:w-full md:w-45% lg:w-40%  flex flex-col justify-center pl-0 sm:pl-0 md:pl-6 lg:pl-7">
     {/* Live Project Link */}
