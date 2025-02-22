@@ -16,7 +16,7 @@ const services = [
     icon: <FaNodeJs size={40} />
   },
   {
-    name: "Express.js Backend",
+    name: "Express.js",
     description: "Creating RESTful APIs and server-side logic using Express.js, a lightweight Node.js framework.",
     icon: <SiExpress size={40} />
   },
